@@ -60,8 +60,7 @@ Final-year Bachelor of Commerce and Science student at Monash University, passio
 
 ---
 
-## **Projects & Competitions**
-- **Neural Cellular Automata Researcher** | Monash DeepNeuron *(Nov 2024 – Present)*  
+## **Projects & Competitions** 
 - **Pokémon Battle Simulator** | Developed a text-based **Python game** with OOP  
 - **Jane Street Mystery Planet Champion** | 1st place in a **trading & puzzle challenge** *(June 2024)*  
 - **Quantium Case Competition Finalist** | Led a team in a **financial analytics challenge** *(May 2024)*  
