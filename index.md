@@ -5,7 +5,7 @@ description: "AI, Quantum Computing, and Machine Learning Enthusiast"
 
 # **Abhay Jhade**
 📍 Melbourne, VIC 3000  
-📧 [abhayjhade@gmail.com](mailto:abhayjhade@gmail.com)  
+📧 [abhay.jhade@monash.edu](mailto:abhay.jhade@monash.edu)  
 🔗 [LinkedIn](https://www.linkedin.com/in/abhayjhade/)  
 
 ## **Objective**
@@ -83,7 +83,7 @@ Final-year Bachelor of Commerce and Science student at Monash University, passio
 ---
 
 ## **Contact & Links**
-📧 [abhayjhade@gmail.com](mailto:abhayjhade@gmail.com)  
+📧 abhay.jhade@monash.edu](mailto:abhay.jhade@monash.edu)  
 🔗 [LinkedIn](https://www.linkedin.com/in/abhayjhade/)  
 💻 [GitHub](https://github.com/abhayjhade)  
 
