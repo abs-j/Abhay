@@ -1,6 +1,6 @@
 ---
-title: "Abhay Jhade – Digital Resume"
-description: "AI, Quantum Computing, and Machine Learning Enthusiast"
+title: ""
+description: ""
 ---
 
 # **Abhay Jhade**
